@@ -28,5 +28,5 @@ After building the project, you can run the program with the following command:
 You should see the output:
 
 ```
-Hello, World!
+Ola, Mundo!
 ```
